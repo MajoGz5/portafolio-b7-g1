@@ -1,6 +1,15 @@
-body {
-    background-color: blanchedalmond;
+#Presentación{
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    background-image: url(assets/Fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 .proyecto {
     background-size: contain;
     background-repeat: no-repeat;
