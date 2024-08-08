@@ -4,17 +4,23 @@
     justify-content: start;
     align-items: center;
 
-    background-image: url(assets/Fondo.jpg);
+    background-image: url(assets/Fondo2.JPG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .proyecto {
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #proyecto-1{
-    background-image: url(assets/Mosaico\ 2.jpg);
+    background-image: url(assets/clong.png);
+}
+#proyecto-2{
+    background-image: url(assets/Pers.jpg);
+}
+#proyecto-3{
+    background-image: url(assets/Maqueta.JPG);
 }
