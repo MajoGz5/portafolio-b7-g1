@@ -9,6 +9,12 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.castoro-titling-regular {
+    font-family: "Castoro Titling", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
 
 .proyecto {
     background-size: cover;
@@ -17,10 +23,81 @@
 }
 #proyecto-1{
     background-image: url(assets/clong.png);
+    background-position: center;
 }
 #proyecto-2{
-    background-image: url(assets/Pers.jpg);
+    background-image: url(assets/F1.jpg);
+    background-position: center;
 }
 #proyecto-3{
-    background-image: url(assets/Maqueta.JPG);
+    background-image: url(assets/M2.JPG);
+}
+#Foto1{
+    background-image: url(assets/F1.jpg);
+    padding: 200px;
+    background-position: center;
+}
+#Foto2{
+    background-image: url(assets/F2.JPG);
+    padding: 200px;
+    background-position: center;
+}
+#Foto3{
+    background-image: url(assets/F3.JPG);
+    padding: 200px;
+    background-position: center;
+}
+#Foto4{
+    background-image: url(assets/F4.JPG);
+    padding: 200px;
+    background-position: center;
+}
+#Foto5{
+    background-image: url(assets/F5.jpg);
+    padding: 200px;
+    background-position: center;
+}
+#Foto6{
+    background-image: url(assets/F6.JPG);
+    padding: 200px;
+    background-position: center;
+}
+#MQ1{
+    background-image: url(assets/M1.JPG);
+    padding: 200px;
+    background-position: center;
+}
+#MQ2{
+    background-image: url(assets/M2.JPG);
+    padding: 200px;
+    background-position: center;
+}#MQ3{
+    background-image: url(assets/M3.JPG);
+    padding: 200px;
+    background-position: center;
+}#MQ4{
+    background-image: url(assets/M4.JPG);
+    padding: 200px;
+    background-position: center;
+}
+#MQ5{
+    background-image: url(assets/M5.JPG);
+    padding: 200px;
+    background-position: center;
+}#MQ6{
+    background-image: url(assets/M6.JPG);
+    padding: 200px;
+    background-position: center;
+}#MQ7{
+    background-image: url(assets/M7.JPG);
+    padding: 200px;
+    background-position: center;
+}#MQ8{
+    background-image: url(assets/M8.JPG);
+    padding: 200px;
+    background-position: center;
+}#MQ9{
+    background-image: url(assets/M9.JPG);
+    padding: 200px;
+    background-position: center;
 }
