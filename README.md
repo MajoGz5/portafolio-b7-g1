@@ -4,13 +4,13 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 [Proyecto desplegado (https://majogz.netlify.app/)](https://majogz.netlify.app/)
 ## Secciones de mi sitio
-![Presentación](assets/README/1.png.png)
+![Presentación](assets/README/1.png)
 ![Habilidades](assets/README/2.png)
 ![Proyectos](assets/README/3.png)
-![Experiencia](assets/readme/4.png)
-![Contacto](assets/readme/4.png)
-![Fotografía](assets/readme/5.png)
-![Maquetas](assets/readme/6.png)
+![Experiencia](assets/README/4.png)
+![Contacto](assets/README/4.png)
+![Fotografía](assets/README/5.png)
+![Maquetas](assets/README/6.png)
 
 ## Tecnologías
 * HTML
